@@ -7,6 +7,9 @@ type TodoItem =
 
 service : {
     add: (text) -> (nat32);
-    get: () -> (vec TodoItem) query;
+     get: (nat32, nat32) -> (vec TodoItem) query;
+    get_by_id: (nat32) -> (opt TodoItem) query;
     mark_done: (nat32) -> (bool);
+    delete: (nat32) -> (bool);
+    update: (nat32, text) -> (bool);
 }
