@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "src/hot_or_not_assignment_backend",
+]

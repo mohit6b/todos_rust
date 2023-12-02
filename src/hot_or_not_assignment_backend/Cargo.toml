@@ -1,0 +1,16 @@
+[package]
+name = "hot_or_not_assignment_backend"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+path = "src/lib.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+candid = "0.8"
+ic-cdk = "0.7.0"
+ic-cdk-macros = "0.8.2"
+serde = "1.0.193"
