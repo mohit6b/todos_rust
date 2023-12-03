@@ -36,10 +36,15 @@ cargo test
 
 ## UI Results
 1. UI Result ![UI Result](./src/hot_or_not_assignment_backend/assets/1_Candid_UI.png)
+
 2. Add Task ![Add Task](./src/hot_or_not_assignment_backend/assets/4_Added10_Tasks.png)
+
 3. Get Tasks Using Pagination ![Get Tasks Using Pagination](./src/hot_or_not_assignment_backend/assets/5_Get_Tasks_Pagination.png)
+
 4. Update By Id ![Update By Id](./src/hot_or_not_assignment_backend/assets/8_Update_Task_By_Id.png)
+
 5. Delete By Id ![Delete By Id](./src/hot_or_not_assignment_backend/assets/10_Delete_By_Id.png)
+
 6. Get By Id ![Get By Id](./src/hot_or_not_assignment_backend/assets/11_Get_By_Id.png)
 
 
