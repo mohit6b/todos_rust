@@ -32,7 +32,7 @@ cargo test
 ```
 
 ## Links to deployment
-- Canister link: [https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=tenox-faaaa-aaaag-aceoa-cai](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=tenox-faaaa-aaaag-aceoa-cai)
+- ICP Canister link: [https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=tenox-faaaa-aaaag-aceoa-cai](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=tenox-faaaa-aaaag-aceoa-cai)
 
 ## UI Results
 1. UI Result ![UI Result](./src/hot_or_not_assignment_backend/assets/1_Candid_UI.png)
