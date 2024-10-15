@@ -1,4 +1,4 @@
-# Hot or Not Assignment 
+# Hot or Not 
 Step-by-step instructions and commands used in setting up and deploying the "Hot or Not Assignment for CRUD operations of a TODO list" project using the Internet Computer (IC) platform.
 
 ## Prerequisite installations
